@@ -1,0 +1,5 @@
+name = "radioterapia-ai"
+compatibility_date = "2026-02-08"
+
+[site]
+bucket = "."
